@@ -1,5 +1,7 @@
 # Tools of the Trade
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/parente/tott?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository hosts the web site and related materials for a series of meet-ups about software development tools.
 
 From the website:
